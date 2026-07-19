@@ -6,7 +6,7 @@
 }
 body {
     display: flex;
-    background-color: rgb(198, 130, 236);
+    background-color: rgb(7, 7, 168);
     width: 100vw;
     height: 100vh;
     align-items: center;
@@ -19,6 +19,7 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(41, 40, 40);
     margin: 0 10px;
+    overflow: hidden;
 }
 
 header {

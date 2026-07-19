@@ -6,7 +6,7 @@
 }
 body {
     display: flex;
-    background-color: rgb(198, 130, 236);
+    background-color: rgb(7, 7, 168);
     width: 100vw;
     height: 100vh;
     align-items: center;
@@ -27,6 +27,10 @@ header {
     gap: 20px;
     justify-content: center;
     align-items: center;
+}
+
+header h1 {
+    margin-bottom: 10px;
 }
 
 header img {
