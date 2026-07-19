@@ -30,7 +30,7 @@ header {
 }
 
 header img {
-    max-width: 200px; /*mudar*/
+    max-width: 200px;
 }
 
 h2 {
@@ -68,9 +68,4 @@ article a:hover {
 h1 {
     font-size: 1.8em;
     text-align: center;
-}
-
-iframe {
-    width: 500px;
-    height: 300px;
 }
